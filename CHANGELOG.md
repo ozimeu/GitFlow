@@ -1,3 +1,8 @@
+# 0.3.0
+ * Task - Dev task
+ * Task - hotfix_1 - Hotfix master 1
+ * Task - task7 - Task7 hotfix master
+
 # 0.2.2
  * Task - bugfix_release_2 - Bugfix no. 2 for release 0.2
 
