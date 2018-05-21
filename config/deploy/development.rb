@@ -8,7 +8,7 @@
 # server "db.example.com", user: "deploy", roles: %w{db}
 
 set :stage, :development
-set :branch, 'development'
+set :branch, 'develop'
 set :domain, 'development.ozim.eu' # required for automatic app restarts
 
 # used in case we're deploying multiple versions of the same
