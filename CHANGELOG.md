@@ -11,6 +11,9 @@
  * Task - [TASK-2] Regular task - update readme again
  * Task - task1 - Update readme
 
+# 0.1.4
+ * Task - Hotfix master capistrano
+
 # 0.1.3
  * Task - hotfix_1 - Hotfix master 1
  * Task - task7 - Task7 hotfix master
