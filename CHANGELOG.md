@@ -1,3 +1,6 @@
+# 0.2.1
+ * Task - bugfix_release_1 - Bugfix release 1
+
 # 0.2.0
  * Task - task-5 - Fix development deployment
  * Task - bugfix-2 - [Task-5] Bugfix 2 change branch name
