@@ -1,3 +1,6 @@
+# 0.3.3
+ * Task - Add credentials to staging env
+
 # 0.3.2
  * Task - Add staging env
 
