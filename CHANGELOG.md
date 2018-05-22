@@ -1,3 +1,6 @@
+# 0.3.2
+ * Task - Add staging env
+
 # 0.3.1
  * Task - bugfix_3_0 - Bugfix release 0.3.0
 
