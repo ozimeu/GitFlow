@@ -1,3 +1,7 @@
+# 0.5.0
+ * Task - HOTFIX2109 - [HOTFIX2] Set Ruby version to 2.4.4
+ * Task - Hotfix master capistrano
+
 # 0.3.5
  * Task - HOTFIX2109 - [HOTFIX2] Set Ruby version to 2.4.4
  * Task - Hotfix master capistrano
