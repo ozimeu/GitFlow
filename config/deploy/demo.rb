@@ -7,7 +7,7 @@
 # server "example.com", user: "deploy", roles: %w{app web}, other_property: :other_value
 # server "db.example.com", user: "deploy", roles: %w{db}
 
-set :stage, :demo
+set :stage, :staging
 set :branch, ENV.fetch('REVISION', 'demo')
 set :domain, 'demo.ozim.eu' # required for automatic app restarts
 
