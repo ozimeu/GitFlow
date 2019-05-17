@@ -1,3 +1,6 @@
+# 0.5.2
+ * Bugfix - PBW-1234 - Add beta env
+
 # 0.5.1
  * Task - update demo env branch
 
