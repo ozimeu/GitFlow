@@ -4,7 +4,8 @@ lock "~> 3.11.0"
 set :application, "GitFlow"
 set :repo_url, "git@github.com:ozimeu/GitFlow.git"
 set :rvm_type, :user
-set :rvm_ruby_version, '2.4.4'
+set :rvm_ruby_version, '2.5.3'
+set :passenger_rvm_ruby_version, '2.5.3'
 append :linked_dirs, '.bundle'
 
 # Default branch is :master
