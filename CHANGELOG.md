@@ -1,3 +1,6 @@
+# 0.5.1
+ * Task - update demo env branch
+
 # 0.5.0
  * Task - HOTFIX2109 - [HOTFIX2] Set Ruby version to 2.4.4
  * Task - Hotfix master capistrano
