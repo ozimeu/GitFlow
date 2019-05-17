@@ -1,3 +1,6 @@
+# 0.5.3
+ * Bugfix - PBW-1234 - Fix something
+
 # 0.5.2
  * Bugfix - PBW-1234 - Add beta env
 
