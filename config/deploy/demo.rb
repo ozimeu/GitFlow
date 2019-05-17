@@ -8,7 +8,7 @@
 # server "db.example.com", user: "deploy", roles: %w{db}
 
 set :stage, :staging
-set :branch, ENV.fetch('REVISION', 'demo')
+set :branch, ENV.fetch('REVISION', 'release')
 set :domain, 'demo.ozim.eu' # required for automatic app restarts
 
 # used in case we're deploying multiple versions of the same
