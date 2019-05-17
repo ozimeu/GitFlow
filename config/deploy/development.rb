@@ -9,14 +9,14 @@
 
 set :stage, :development
 set :branch, ENV.fetch('REVISION', 'develop')
-set :domain, 'development.ozim.eu' # required for automatic app restarts
+set :domain, 'develop.ozim.eu' # required for automatic app restarts
 
 # used in case we're deploying multiple versions of the same
 # app side by side. Also provides quick sanity checks when looking
 # at filepaths
 #set :full_app_name, "#{fetch(:application)}_#{fetch(:stage)}"
 
-set :deploy_to, '/home/ozim/domains/development.ozim.eu'
+set :deploy_to, '/home/ozim/domains/develop.ozim.eu'
 
 # MyDevil.net custom operations
 namespace :deploy do
