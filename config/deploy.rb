@@ -6,6 +6,7 @@ set :repo_url, "git@github.com:ozimeu/GitFlow.git"
 set :rvm_type, :user
 set :rvm_ruby_version, '2.5.3'
 set :passenger_rvm_ruby_version, '2.5.3'
+set :passenger_restart_with_touch, true
 append :linked_dirs, '.bundle'
 
 # Default branch is :master
