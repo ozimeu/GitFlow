@@ -6,6 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 gem 'rails', '~> 5.1.6'
+gem 'redcarpet'
 gem 'sqlite3'
 gem 'puma', '~> 3.7'
 gem 'uglifier', '>= 1.3.0'
@@ -21,6 +22,7 @@ group :development do
   gem 'capistrano-bundler', '~> 1.3'
   gem 'capistrano-passenger'
   gem 'capistrano-rails'
+  gem 'capistrano-rvm'
   gem 'web-console', '>= 3.3.0'
 end
 

@@ -1,8 +1,10 @@
 # config valid for current version and patch releases of Capistrano
-lock "~> 3.10.2"
+lock "~> 3.11.0"
 
 set :application, "GitFlow"
 set :repo_url, "git@github.com:ozimeu/GitFlow.git"
+set :rvm_type, :user
+set :rvm_ruby_version, '2.4.4'
 append :linked_dirs, '.bundle'
 
 # Default branch is :master
