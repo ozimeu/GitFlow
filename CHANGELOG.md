@@ -1,3 +1,7 @@
+# 0.7.0
+ * Feature - PBW-2223 - Another feature
+ * Feature - PBW-1111 - Feature change
+
 # 0.5.2
  * Bugfix - PBW-1234 - Add beta env
 
