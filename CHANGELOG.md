@@ -1,3 +1,11 @@
+# 0.7.1
+ * Bugfix - PBW-2323 - Bugfix
+
+# 0.7.0
+ * Feature - PBW-2223 - Another feature
+ * Feature - PBW-1111 - Feature change
+
+
 # 0.6.1
  * Hotfix - PBW-6666 - Hotfix od Marty
  * Bugfix - PBW-1234 - Fix something
