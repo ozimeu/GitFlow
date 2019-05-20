@@ -1,3 +1,16 @@
+# 0.5.3
+ * Bugfix - PBW-1234 - Fix something
+
+# 0.5.2
+ * Bugfix - PBW-1234 - Add beta env
+
+# 0.5.1
+ * Task - update demo env branch
+
+# 0.5.0
+ * Task - HOTFIX2109 - [HOTFIX2] Set Ruby version to 2.4.4
+ * Task - Hotfix master capistrano
+
 # 0.3.5
  * Task - HOTFIX2109 - [HOTFIX2] Set Ruby version to 2.4.4
  * Task - Hotfix master capistrano
