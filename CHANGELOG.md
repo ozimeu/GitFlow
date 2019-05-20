@@ -1,3 +1,8 @@
+# 0.6.0
+ * Feature - PBW-2222 - Add new feature to development
+ * Bugfix - PBW-1234 - Add beta env
+ * Task - update demo env branch
+
 # 0.5.3
  * Bugfix - PBW-1234 - Fix something
 
