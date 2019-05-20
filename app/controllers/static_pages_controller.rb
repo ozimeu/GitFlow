@@ -1,6 +1,7 @@
 
 class StaticPagesController < ApplicationController
   def home
+    # comment
     environment = ENV.fetch("RAILS_ENV")
 
     markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML, autolink: true, tables: true)
