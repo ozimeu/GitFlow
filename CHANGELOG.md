@@ -1,3 +1,7 @@
+# 0.6.1
+ * Hotfix - PBW-6666 - Hotfix od Marty
+ * Bugfix - PBW-1234 - Fix something
+
 # 0.6.0
  * Feature - PBW-2222 - Add new feature to development
  * Bugfix - PBW-1234 - Add beta env
