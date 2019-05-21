@@ -1,3 +1,6 @@
+# 0.8.2
+ * Hotfix - PBW-32523 - Hotfix
+
 # 0.8.1
  * Bugfix - PBW-5555 - Bugfix
 
