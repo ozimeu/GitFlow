@@ -1,8 +1,26 @@
+
 # 0.9.1
  * Bugfix - asdasd
 
 # 0.9.0
  * Feature - PBW-1 - asdasd
+
+# 0.8.3
+ * Hotfix - agegeg
+
+# 0.8.2
+ * Hotfix - PBW-32523 - Hotfix
+
+# 0.8.1
+ * Bugfix - PBW-5555 - Bugfix
+
+# 0.8.0
+ * Feature - PBW-6767 - Another feature
+ * Feature - PBW-7777 - Feature 7
+ * Hotfix - PBW-6666 - Hotfix od Marty
+ * Bugfix - PBW-2323 - Bugfix
+ * Bugfix - PBW-1234 - Fix something
+
 
 # 0.7.1
  * Bugfix - PBW-2323 - Bugfix
