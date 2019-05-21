@@ -1,3 +1,6 @@
+# 0.8.1
+ * Bugfix - PBW-5555 - Bugfix
+
 # 0.8.0
  * Feature - PBW-6767 - Another feature
  * Feature - PBW-7777 - Feature 7
