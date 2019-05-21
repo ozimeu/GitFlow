@@ -1,3 +1,23 @@
+# 0.7.1
+ * Bugfix - PBW-2323 - Bugfix
+
+# 0.7.0
+ * Feature - PBW-2223 - Another feature
+ * Feature - PBW-1111 - Feature change
+
+
+# 0.6.1
+ * Hotfix - PBW-6666 - Hotfix od Marty
+ * Bugfix - PBW-1234 - Fix something
+
+# 0.6.0
+ * Feature - PBW-2222 - Add new feature to development
+ * Bugfix - PBW-1234 - Add beta env
+ * Task - update demo env branch
+
+# 0.5.3
+ * Bugfix - PBW-1234 - Fix something
+
 # 0.5.2
  * Bugfix - PBW-1234 - Add beta env
 
