@@ -10,7 +10,6 @@ gem 'redcarpet'
 gem 'sqlite3'
 gem 'puma', '~> 3.7'
 gem 'uglifier', '>= 1.3.0'
-gem 'mr_bump', require: false
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
@@ -23,6 +22,7 @@ group :development do
   gem 'capistrano-passenger'
   gem 'capistrano-rails'
   gem 'capistrano-rvm'
+  gem 'mr_bump', git: 'https://github.com/ozimeu/mr_bump', require: false
   gem 'web-console', '>= 3.3.0'
 end
 
